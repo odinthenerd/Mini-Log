@@ -66,7 +66,7 @@ namespace miniLog{
 			ofs     << std::endl
 				<< "-------------------------------------------------" << std::endl
 				<< "++++++++++++ Welcome to the Mini-Log ++++++++++++" << std::endl
-				<< "++            Mini-Log was build by            ++" << std::endl
+				<< "++            Mini-Log was built by            ++" << std::endl
 				<< "++              Stephan Bökelmann              ++" << std::endl
 				<< "++             github: bjoekeldude             ++" << std::endl
 				<< "++           2018 - Ruhr-Uni-Bochum            ++" << std::endl
